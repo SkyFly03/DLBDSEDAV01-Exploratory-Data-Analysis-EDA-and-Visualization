@@ -117,3 +117,11 @@ Standard Python libraries used:
 GitHub may not render large notebooks. Use [NBViewer](https://nbviewer.org) to open the notebook directly:
 
 **https://nbviewer.org/github/SkyFly03/DLBDSEDAV01-Exploratory-Data-Analysis-EDA-and-Visualization/blob/main/Qatar%20EDAV.ipynb**  
+
+---
+
+### Disclaimer
+
+This project is created for educational purposes only as part of an academic assignment.  
+It is not affiliated with or endorsed by Qatar Airways. All data used is publicly available from [Kaggle](https://www.kaggle.com/datasets/pranaybshah/qatar-airways-reviews).
+
