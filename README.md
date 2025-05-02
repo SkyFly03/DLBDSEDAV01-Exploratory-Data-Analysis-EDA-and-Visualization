@@ -1,7 +1,7 @@
 # DLBDSEDAV01 – Exploratory Data Analysis (EDA) and Visualization  
 ## Task 1: Visually Exploring a Dataset  
-
-## Qatar Airways Reviews – EDA Project Overview
+![image](https://github.com/user-attachments/assets/161e2da3-2d99-4196-88a3-276be2d00498)
+## Qatar Airways Reviews – EDA Project Overview 
 
 This project uses Exploratory Data Analysis (EDA) to examine reviews of Qatar Airways from Kaggle.  
 The goal is to show trends and patterns in customer feedback using visualizations and statistical techniques.
