@@ -7,6 +7,9 @@ This project uses Exploratory Data Analysis (EDA) to examine reviews of Qatar Ai
 The goal is to show trends and patterns in customer feedback using visualizations and statistical techniques.
 
 ---
+❗❗❗GitHub cannot show full output. 
+👉 [Link to the notebook including all visualizations:](https://nbviewer.org/github/SkyFly03/DLBDSEDAV01-Exploratory-Data-Analysis-EDA-and-Visualization/blob/main/Qatar%20EDAV.ipynb)
+---
 
 ## 1. Dataset Overview
 
