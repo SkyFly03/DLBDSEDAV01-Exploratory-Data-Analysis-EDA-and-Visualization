@@ -10,7 +10,8 @@ The goal is to show trends and patterns in customer feedback using visualization
 
 ## 1. Dataset Overview
 
-**Source**: [Kaggle – Qatar Airways Reviews](https://www.kaggle.com/datasets/pranaybshah/qatar-airways-reviews)  
+**Source**: [Kaggle – Qatar Airways Reviews](https://www.kaggle.com/datasets/pranaybshah/qatar-airways-reviews) 
+- Download the dataset manually from Kaggle and place `qatar_airways_reviews.csv` inside a `dataset/` folder in the same directory. 
     
 **Main Columns**:
 - `rating`: Customer rating from 1 to 10  
@@ -78,7 +79,7 @@ Standard Python libraries used:
 ### 5.3 Trends Over Time
 - Scatter plot with regression line showed a slight decrease in satisfaction over time.
 - Density heatmaps were tested but not used due to low readability.
-![image](https://github.com/user-attachments/assets/5a783167-2d99-462d-8db6-d4c705b2b026)
+![image](https://github.com/user-attachments/assets/9b7b353d-b15b-4760-95cb-e740a4a0aac6)
 
 ### 5.4 Common Themes in Comments
 - Bar chart showing top 20 frequent words like “crew”, “delay”, and “food”.
