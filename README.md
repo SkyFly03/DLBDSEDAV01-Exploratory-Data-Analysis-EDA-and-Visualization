@@ -94,7 +94,7 @@ Standard Python libraries used:
 ### 5.6 Satisfaction by Aircraft, Traveler, Country, and Seat
 - Bubble chart subplots visualized average ratings and review count across groups.
 - Newer aircraft scored higher, Business travelers rated lower, and German passengers rated lowest.
-![image](https://github.com/user-attachments/assets/407e829e-4aee-4f5a-aa2d-4e1c5a3f0f13)
+![image](https://github.com/user-attachments/assets/8f6662b9-69d5-453a-bd85-53d1df3dba89)
 
 ---
 
