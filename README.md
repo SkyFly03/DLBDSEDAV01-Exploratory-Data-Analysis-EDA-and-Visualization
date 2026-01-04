@@ -1,3 +1,21 @@
+## ▸ Project Overview
+- **Exploratory data analysis:** structured investigation of real-world dataset  
+- **Feature understanding:** distributions, relationships, and data quality checks  
+- **Insight-driven focus:** analysis aimed at informing downstream modeling or decisions
+
+## ▸ Tech Stack
+- **Language:** Python  
+- **Data analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Workflow:** JupyterLab
+
+## ▸ Project Context
+- **Academic origin:** university project  
+- **Design goal:** applied EDA workflow reflecting standard data science practice
+
+---
+---
+
 # DLBDSEDAV01 – Exploratory Data Analysis (EDA) and Visualization  
 ## Task 1: Visually Exploring a Dataset  
 ![image](https://github.com/user-attachments/assets/161e2da3-2d99-4196-88a3-276be2d00498)
@@ -7,9 +25,15 @@ This project uses Exploratory Data Analysis (EDA) to examine reviews of Qatar Ai
 The goal is to show trends and patterns in customer feedback using visualizations and statistical techniques.
 
 ---
-❗❗❗GitHub cannot show full output. 
-👉 [Link to the notebook including all visualizations:](https://nbviewer.org/github/SkyFly03/DLBDSEDAV01-Exploratory-Data-Analysis-EDA-and-Visualization/blob/main/Qatar%20EDAV.ipynb)
----
+
+## How to clone this repository
+
+```bash
+git clone https://github.com/SkyFly03/DLBDSEDAV01-Exploratory-Data-Analysis-EDA-and-Visualization.git
+cd DLBDSEDAV01-Exploratory-Data-Analysis-EDA-and-Visualization
+pip install -r requirements.txt
+jupyter lab
+```
 
 ## 1. Dataset Overview
 
@@ -124,8 +148,8 @@ GitHub may not render large notebooks. Use [NBViewer](https://nbviewer.org) to o
 
 ---
 
-### Disclaimer
+## Data & Attribution
 
-This project is created for educational purposes only as part of an academic assignment.  
-It is not affiliated with or endorsed by Qatar Airways. All data used is publicly available from [Kaggle](https://www.kaggle.com/datasets/pranaybshah/qatar-airways-reviews).
+This analysis is based on publicly available airline customer review data.
+The project is conducted in an academic and analytical context and is not affiliated with, endorsed by, or representative of any airline or airline group.
 
